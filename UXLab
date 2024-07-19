@@ -1,0 +1,39 @@
+UXLab/
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   ├── feature_request.md
+│   └── workflows/
+│       └── ci.yml
+├── research/
+│   ├── user_studies/
+│   │   ├── study_1.md
+│   │   ├── study_2.md
+│   ├── interviews/
+│   │   ├── interview_1.md
+│   │   └── interview_2.md
+│   └── surveys/
+│       ├── survey_1.md
+│       └── survey_2.md
+├── design/
+│   ├── wireframes/
+│   │   ├── homepage_wireframe.png
+│   │   └── dashboard_wireframe.png
+│   ├── prototypes/
+│   │   ├── prototype_1.png
+│   │   └── prototype_2.png
+│   └── guidelines/
+│       ├── color_palette.md
+│       └── typography.md
+├── tools/
+│   ├── README.md
+│   ├── design_tool.py
+│   └── research_tool.py
+├── tests/
+│   ├── __init__.py
+│   ├── test_design_tool.py
+│   └── test_research_tool.py
+├── .gitignore
+├── LICENSE
+├── README.md
+└── setup.py
